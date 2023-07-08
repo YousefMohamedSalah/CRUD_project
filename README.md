@@ -1,6 +1,7 @@
 # ___CRUD_project___
 
-## *__Intrdocution__*
+## *Intrdocution*
+--------------------------------------------------------------------------------------------------------
 
 ### __This Project was created to use API to perform the crud operations, which are__
 
@@ -8,8 +9,7 @@
  * #### Read: Selecting the information of the user 
  * #### Update: Updating some or all information of the user 
  * #### Delete: Deleting a user
-
---------------------------------------------------------------------------------------------------------
+____________________________________________________________________________________________________________
 
 ### __The project uses URL information as methods, queries, and the path itself to do these operations, such as__
 
