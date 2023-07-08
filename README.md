@@ -11,9 +11,9 @@
 
 ### __The project uses URL information as methods, queries, and the path itself to do these operations, such as__
 
- * #### post: as it applies to input new information; so it is used to create data (create operation)
- * #### get: it applies to requesting information; so it is used to read data from the database (read operation)
- * #### patch: it modifies the requesting information for the requested query, so it is used to update data from the database (update operation)
- * #### delete: it applies to delete the requesting information/body, so it is used to delete data from the database (delete operation)
+ * #### post: ##### as it applies to input new information; so it is used to create data (create operation)
+ * #### get: ##### it applies to requesting information; so it is used to read data from the database (read operation)
+ * #### patch: ##### it modifies the requesting information for the requested query, so it is used to update data from the database (update operation)
+ * #### delete: ##### it applies to delete the requesting information/body, so it is used to delete data from the database (delete operation)
 
 --------------------------------------------------------------------------------------------------------
